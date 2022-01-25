@@ -9,9 +9,18 @@ public class Student {
     
     private String studentId;
     private String studentName;
-
+    private String address;
+    
     public String getStudentId() {
         return studentId;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public void setStudentId(String studentId) {
