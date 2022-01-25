@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+Date 01 25
+Author Liliia Anna
+*/
 package student_win22_tuesday;
 
 public class Student {
